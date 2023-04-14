@@ -1,0 +1,49 @@
+**N = 2, C = 4**
+
+Execution time: 13m51.7060135s of 198194 points
+Number of CPUs: 12
+
+**N = 4, C = 4**
+
+Execution time: 4m5.3291474s of 206102 points
+Number of CPUs: 12
+
+**N = 4, C = 10**
+
+Execution time: 4m14.0856218s of 206102 points
+Number of CPUs: 12
+
+**N = 10, C = 4**
+
+Execution time: 17.4166063s of 222488 points
+Number of CPUs: 12
+
+**N = 10, C = 10**
+
+Execution time: 14.4937853s of 222488 points
+Number of CPUs: 12
+
+**N = 10, C = 50**
+
+Execution time: 15.8853731s of 222488 points
+Number of CPUs: 12
+
+**N = 20, C = 10**
+
+
+Execution time: 4.5850578s of 255300 points
+Number of CPUs: 12
+
+**N = 20, C = 50**
+
+Execution time: 4.4453326s of 255300 points
+Number of CPUs: 12
+
+
+**N = 20, C = 200**
+
+Execution time: 4.4829671s of 255300 points
+Number of CPUs: 12
+
+CPU: AMD Ryzen 5 3600 6-Core Processor
+OS: Windows 10
